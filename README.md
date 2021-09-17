@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PolBlanco
+- 👀 I’m interested in security.
+- 🌱 I’m currently learning IT (ASIX).
