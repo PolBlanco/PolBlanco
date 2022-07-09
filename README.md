@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @PolBlanco
-- 🌱 I’m currently learning IT (ASIX).
+- 🌱 I’m currently learning IT (I have ASIX).
